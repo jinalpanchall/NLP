@@ -1,7 +1,6 @@
-﻿import os
+import os
 import json
 import re
-import numpy as np
 
 regex_type_dict={}
 corpus_freq={}
@@ -28,21 +27,21 @@ def remove_regex_pattern(string_text, replace=False):
     regex_type_dict['DATE']=date_reg.findall(string_text)
 
     if replace==True:                                 #if replace is true, then patterns will be replaced by the given text
-        
         extracted_text = email_reg.sub('EMAIL', string_text)
         extracted_text = phone_reg.sub('PHONE', extracted_text)
         #extracted_text = url_reg.sub('URL', extracted_text)
         extracted_text = time_reg.sub('TIME', extracted_text)
         extracted_text = date_reg.sub('DATE', extracted_text)
         extracted_text=digits.sub('NUM',extracted_text)
+
     else:                                             # or else it will just remove it.
-        
-        extracted_text = email_reg.sub(" ",string_text)
-        extracted_text = phone_reg.sub(" ",extracted_text)
+        extracted_text = email_reg.sub(" ", string_text)
+        extracted_text = phone_reg.sub(" ", extracted_text)
         #extracted_text = url_reg.sub(" ", extracted_text)
         extracted_text = time_reg.sub(" ", extracted_text)
         extracted_text = date_reg.sub(" ", extracted_text)
-        extracted_text= digits.sub(" ", extracted_text)
+        extracted_text = digits.sub(" ", extracted_text)
+
 
     return extracted_text
 
