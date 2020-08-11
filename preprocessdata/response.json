@@ -1,0 +1,1303 @@
+{
+    "total": 2464,
+    "result": [
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "93801be8560168041d95bb8b623262a9",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Vaidam Health Pvt Ltd.",
+                "name": "Vaidam Health Pvt Ltd.",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "994cb0596906accc72b8ae999980edef",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Vaidyanath",
+                "name": "Vaidyanath",
+                "description": "Vaidyanath, a health and fitness based web and print magazine which promotes healthcare startups and entrepreneurs and other health sector professional by featuring them on its platform."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "2f60ec1b82c9c17c5838c05c83ff724b",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Variance.AI",
+                "name": "Variance.AI",
+                "description": "Variance.AI is a fitness company. 80% of the members don\u2019t use gym, yet they pay $30 to $125/month. Attrition is linked with discouraging results and lack of engagement. Traditional gym users don\u2019t know proper exercise regimen. Members prefer workout regimens that are fun, customizable and social. \n\nThey specialize in providing customized fitness solutions using Artificial Intelligence. Travi and Gruvi are our flagship products for fitness."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5c104b9d4c3e7ec20ebcdc0e4213f420",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "VASS Software and Solutions",
+                "name": "VASS Software and Solutions",
+                "description": "Vass Softwares and Solutions Private Limited is a Chennai based healthcare information management systems product Company. They provide comprehensive and global standard Solutions in the areas of HIMS,BIG DATA and Analytics, Their IT consulting services are geared towards increasing business performance and reducing IT costs. Their approach is consultative, their execution is strategic, their processes are agile, and their focus is on delivering sophisticated IT solutions for their clients.\n\nVass Softwares and Solutions Private Limited was founded with the core mission of delivering innovative technology solutions to healthcare service providers enabling value addition to its client\u2019s business processes and systems. They help Businesses Bridge the gap between their business and information technology. Vass Softwares will provide customized solutions for different specialties with built in best treatment practices in each specialty for Healthcare service providers."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "f5f385a28023347fda7c4cf0836379aa",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Ved World",
+                "name": "Ved World",
+                "description": "The Vedas are the oldest and most sacred written texts on our planet. It contains divine spiritual knowledge that encompasses all aspects of life. It has answers to questions like how the universe is formed and offers solutions to grave problems of the modern world like global warming, harmful radiations, pollution, population growth, unhealthy lifestyle etc. The Vedic rituals have been scientifically proven to purify the surroundings and increase the overall influx of cosmic energy at the given place.\n\nThis thought that Vedas are the most primordial source of knowledge and wisdom throughout the universe emerged as an idea to create the company VED WORLD.  The motto of Ved World is to spread knowledge to the whole world for the benefit of entire mankind. The logo of Ved World , which is the triquetra symbol is a three cornered , interlaced with a circle . It comprises of 3 intersecting Vesica Pisces . The holy logo of Ved world , depicts 3 basic elements \u2013 air , water and earth .The unique products and treatments by skilled professionals ensure growth and progress."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "ede8ee4fa2bed43e786f9584e71ed0c1",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Veindoctor Clinic",
+                "name": "Veindoctor Clinic",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "dba027e42c55ddecab683386a1f2a1f6",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Visit",
+                "name": "Visit",
+                "description": "Visit is an AI-driven chatbot to help diagnose your health condition within minutes. The chatbot helps users understand their medical condition, read further and then connects them (over video/phone/chat) to the right physician or specialist based on the condition for further prescriptions/counselling. It also tracks user activity, sleep and fitness data to help them reach their health goals with continuous reminders, insights and motivation. Now everyone has a personal health assistant to take care of their health 24X7."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "0e51a007658ec5342db1e21fd5a23f3e",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "WDB India",
+                "name": "WDB India",
+                "description": "WDB India Is an innovative and global service provider for pharmaceutical companies.\nWe believe and trust in quality work and timely deliverance of services."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "e3648b43d2251eb78f7103184d7a7e0e",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Wellness Solutions- My Life",
+                "name": "Wellness Solutions- My Life",
+                "description": "An integrated medicine center situated in The Garden City of India, Bangalore. They bring the most advanced technologies into natural and holistic methods of treatments. The suffering community of unhealthy people are being mismanaged by the 'Illness' industry. The present setup of hospitals are mainly doing disease care rather than health care. Now, it is possible to make the impossible happen by bringing preventive care into the front line of health care."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "e8948f4949ac1549c5e58b6fed5870bc",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Wiggles India",
+                "name": "Wiggles India",
+                "description": "Wiggles is India\u2019s first tailor-made monthly preventive healthcare  subscription box \u201ccurated by vets for your pets\u201d with an aim to disrupt the pet healthcare industry."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "6230f015451a4b80526c6fe0327ae3b8",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Zotezo.com",
+                "name": "Zotezo.com",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "3ccd53d3987d8adbda29f85afb96e5e4",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "1tab",
+                "name": "1tab",
+                "description": "1Tab is the right place for all your healthcare needs with a wide range of medications, healthcare products, and services all across India. We Know Your Value.\nYou can:\nOrder medicines, healthcare products online\nBook a consultation\nAvail diagnostic services at Home"
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5d8d58e309a50dc27253bb748f41f70e",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "AKKER BIO",
+                "name": "AKKER BIO",
+                "description": "Akker Bio is India's first FMT (Fecal Microbial Transplantation) product and gut microbial farming company based out of Bangalore. We provide 100% safe microbiota, in the form of a Fecal Microbiota Transplant (FMT) doses & cultured commensals, to clinicians for administering to their patients. We developed custom processes to achieve great efficacy in our products. With state-of-the-art technology and processes, we change the way healthcare is delivered in future."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "03b55d553f405e8c731610d9984a4959",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "APTACARE WELLNESS PRIVATE LIMITED",
+                "name": "APTACARE WELLNESS PRIVATE LIMITED",
+                "description": "Aptacare is India\u2019s most trusted, leading Ayurveda firm which operates in key consumer product categories.  The main focus lays in Preventive health, Virtual consultation and R & D of various herb based preparations mentioned in our Ayurveda classics. This ayurvedic company has a wide distribution network covering many retail outlets with a huge penetration in both urban and rural markets."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "cc17e0e3c127dfe843c68fff109f3626",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Ask DeeDee",
+                "name": "Ask DeeDee",
+                "description": "Ask DeeDee is a one-stop healthcare platform that allows women to anonymously ask sexual health questions and get accurate answers from experts quickly and conveniently. It was founded in 2019 and is headquartered in Bangalore, Karnataka."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "ddb6c7461c8f2e1cb001363c56feb371",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Bare Anatomy",
+                "name": "Bare Anatomy",
+                "description": "No two people are alike, neither are their personal care needs. You\u2019re unique, you deserve unique care, too! They, at Bare Anatomy, like it precise, and they\u2019re not okay with anything less than that. Hence, Personalization is the new way to Beauty!\n\u2018Bare\u2019 means without addition, something basic and simple, and \u2018Anatomy\u2019 means a study of the structure or internal workings of something. Both words share common grounds of being Natural, Pure in Form, Uncovered, Transparent and Fundamental.\nBare Anatomy celebrates and respects the most natural, unique, and the purest form of Individuals.\nBare Anatomy is a next-gen personal care and beauty brand for women. The team consists of very passionate and pedigreed individuals, who are alums of top schools like INSEAD (France), Carnegie Mellon University (CMU), National Institute of Fashion Technology (NIFT), Indian Institute of Technology (IIT), etc.\nAn out of the box and innovative concept, backed by advanced science and creativity makes Bare Anatomy a perfect balance of the heart and the mind! The company started with the aim of revolutionizing the personal care and beauty industry, starting with haircare products that include shampoos, hair oils, hair serums, and hair masks."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5d2bf0b8b513a9335edc4905d9b822a1",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "BigOHealth",
+                "name": "BigOHealth",
+                "description": "BigOHealth is a free mobile application for patients and subscription based app for doctors that offers patients to get instant online appointment with doctors, mainly in tier 2 and tier 3 cities and a device for doctors that sync their no. of online and offline appointments."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "784e29c439250defea57d970d38db429",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "careNsave",
+                "name": "careNsave",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "50ed9c6a528f1fe0f6fdfb989c43f9cc",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Charita Medcare",
+                "name": "Charita Medcare",
+                "description": "Charita Medcare connects international patients to accredited hospitals with expert doctors in India for affordable treatment. The Charita Medcare team, which is comprised of Stanford trained professionals and world-class surgeons, help patients find healthcare services at the right hospital. It enables patients to video consult with doctors in India from their home and once they are satisfied with the recommended treatment, Charita Medcare assists the patients in filing for a medical visa and travel to India.\n\nThe company was founded in 2019 by Karan Shetty and Melanie Rodrigues."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "bf9ee9d254fd141bbf2b78ccd642f680",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Elate Wellbeing",
+                "name": "Elate Wellbeing",
+                "description": "Elate wellbeing an effort to make people happier and healthier. We believe there is no one right way and we need not go vegetarian or wake up too early and be a monk to be happier and healthier! Rather, we bring to you modern techniques (for both mental and physical well-being) which are easy to follow and can be easily incorporated while you juggle between your work, career and family! \n\nElate provides online counseling, o meditation, therapies on how to sleep well, online yoga, and brain food."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5d6c4620f3f254df782f999b6c1dfdd4",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "ePharma",
+                "name": "ePharma",
+                "description": "ePharma is the right place for all the pharmaceutical needs with a wide range of medications to order all across India. We provide a transparent platform to order prescribed medicine and health products from licensed pharmacies, book a consultation with the certified chain of doctors and diagnostic services at home from government authorized and certified labs."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "adb371ca731d3b126769d548ba66aa7e",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "EvrCare",
+                "name": "EvrCare",
+                "description": "EvrCare\u2019s mission is to take care of your parents when you move away. We intend to take care of all senior citizens who are living alone, starting with India.\n\nEvrCare is the first platform in Asia that brings senior citizens and millenials to live together and share experiences. It matches those who are looking for affordable housing with senior citizens who have a spare room, and can get their rent reduced by up to 30% by helping out with household chores."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "bf7ef5101dd20a2d0763aa92fa85dcd7",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Firdekho Health",
+                "name": "Firdekho Health",
+                "description": "Firdekho Health is a digital health company that is empowered by the joint venture of manpower with cloud-based technology and HIPAA-compliance embarking a better lifestyle and healthcare for the people. Our operations are empathy-driven and with our platform, we make sure to help the healthcare system, its connected bodies and the patients with a better way to manage health by going beyond the precision along with freemium services."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "95b401bac9dba0df3586a56e1dec9cf7",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Green Box",
+                "name": "Green Box",
+                "description": "We strongly believe that care in food we consume can make all the difference. Hence, We as a \"Green Box\" aims at providing nutritional rich diet directly to your door step. Our specialized dietitians design the meal according to your nutritional goals."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "78bafdc5560ff6b98bf3d0ef44c8dff9",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Healthspace",
+                "name": "Healthspace",
+                "description": "Healthspace, is an integrated technology solution to manage all your healthcare needs. It helps patients in managing their health records securely and providing them access to their data and personalized health services, anytime and anywhere, especially when needed most. It helps doctors and healthcare providers connect more effectively with patients and improve their health outcomes."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "e555862acf34e3ba5f846c5690113b4f",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "iMumz",
+                "name": "iMumz",
+                "description": "Pruoo is helping expectant mothers to follow holistic practices for more joyful pregnancy with our Mobile App, iMumz. Our method, developed by experts of various life sciences, provides unique, personalized lifestyle recommendations to the to-be-moms. Pruoo encourages to follow the prescribed lifestyle, tracks the progress and shares with the respective doctors. \n\nThis method has a strong impact on the wellbeing of the to-be-mom. Also, the baby in the fetus of an expectant mother has a similar ability to learn as an infant. This method will have a magical impact on the physical, mental and spiritual development of the unborn baby."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "20430ed4ac0ae9a7ae59e7ce48b27668",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Inneate Hub",
+                "name": "Inneate Hub",
+                "description": "Inneate Hub operates one of its kind tech-enabled GPO for all procurement needs of a hospital. India has a $20 billion medical supplies industry, ailing from poor supply chain infrastructure and over-pricing. We understand that the ability of healthcare institutions to deliver quality affordable healthcare will come from strong backend value chain. At Inneate, we contribute towards this cause by working along the value chain of medical supplies to enable affordable patient care."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "1feb4b7696c61185718e7f89fcc64247",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Karmasthal Healthtech Private Limited",
+                "name": "Karmasthal Healthtech Private Limited",
+                "description": "We are a Super-specialty Elder care solutions at home dedicated to provide premium & comprehensive care, using a hybrid solution of both certified care givers and predictive human technology, for a constant care experience."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "1e25fb567ce52384159ee2f8e2f149c3",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Kucna Delivery Solution",
+                "name": "Kucna Delivery Solution",
+                "description": "Kucna is-  healthcare aggregator that provide fastest healthcare products delivery to its customers."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "d1ac0c314d2960dd6904e72f856eeddd",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Mediflic",
+                "name": "Mediflic",
+                "description": "We are a medical tourism facilitator and a platform where medical travelers or patients coming from other cities or abroad can get informed about the best medical facilities available in India. We provide an all-in-one medical travel solution to the patients.\n\nThis is a one roof showroom of the entire Indian healthcare industry and the best platform to search for hospitals and doctors. Patients from all over the world can look out for their necessary medical treatment programs in India. We connect individuals with all the medical facilities that they need to take good care of themselves and their families.\n\nMediflic is an online healthcare service providing portal and medical tourism facilitator that acts as a bridge between the patients and the doctors. This medical health tourism company is centered around giving medical services at doorsteps to individuals everywhere throughout the world. On this portal, patient's medical records are put away on an encrypted and password protected cloud storage that can be accessed over the web 24 X 7. Patients can avail different medicinal services from top medical establishments and specialists in India.\nMedical tourism facilitator Mediflic is here to make healthy living feasible for everybody. We want to make living healthy possible for people around the world. We bring world-class healthcare into our patients' homes and intend to make medical care progressively accessible, yet additionally moderate and accountable to our patients' needs. We have the vision to make all aspects of medicinal services available from anyplace, with improved access from your own cell phone/ tablet/ PC or laptop.\nPresently, it is the best platform to search for hospitals and doctors, and aims to become a people care centric stage, wherein everybody easily gets to know about the vast opportunities of Indian healthcare services for their and their family's physical, psychological well-being."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "0c83f2dfe90bef749f6d2ea93157a44f",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Mentalisa",
+                "name": "Mentalisa",
+                "description": "Mentalisa is a branch that emphasizes on expression and mental health and self care."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "7fa2e095ca57c2d472d33ad9313ed110",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Misters.in",
+                "name": "Misters.in",
+                "description": "Misters.in is a Gurugram-based direct-to-customer health and wellness platform that more power to you. Anyway, they reckon that there's a lot of compensation and overcompensation for the lack of confidence that's going around."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "cb6156f498826aa885a050038999822d",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Mom Global Store",
+                "name": "Mom Global Store",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "d5b6a5c757c9f82dedef375371ac24fa",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Myelin Foundry",
+                "name": "Myelin Foundry",
+                "description": "Myelin Foundry is a deep tech product start-up that transforms human experiences and industry outcomes by building Artificial Intelligence algorithms on video, voice, and sensor data for edge devices. The Myelin team has expertise in productising deep learning frameworks including CNNs, and GANs, with applications in Media & Entertainment, Health & Wellness, and National Security."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5df9bf25611da0725e8d60187e300acd",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Nutrafirst.in",
+                "name": "Nutrafirst.in",
+                "description": "Nutrafirst is a platform that offers you all the healthcare and nutrition-related products at one place and meets your health needs with premium quality products. Be it weight loss supplements, hair growth products, or any other vitamin and mineral supplements. We have been serving Indian markets for a long time and giving customers the value for the price. We manufacture products keeping customers perspective in mind and deliver optimal health results by offering full customer support.\n\nNutrafirst provides ample health solutions to keep you agile throughout a day. Its health products have the potential to reenergize the exhausted body organs and alleviate the risk of diseases simultaneously."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "599b564ea92137bc245ec47f37b44f6d",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "OmRx",
+                "name": "OmRx",
+                "description": "Medical doctors in India (and most other countries) rely on paper prescriptions as the primary health record even today, despite its inherent deficiencies (disjointed patient datasets, lack of continuity of care, etc.). This results in an expensive and inefficient process, directly having a negative impact on overall health care. On the other hand, current techniques around EMR takes the doctors' eyes away from the patient, to type patient data via a computer screen. Here is a novel approach.\n\nOnline Medical Records eXchange (OmRx) is a platform exclusively for doctors, to digitize paper prescriptions, test reports, referral letters, and many more, resulting in anytime anywhere access of patient data to health professionals.\n\nKey features of the OmRx health technology platform are:\n- digitize paper based patient data for a 360 degree view;\n- delegate digitization process;\n- easy to learn; start using it in minutes;\n- complete access to patient data during its lifecycle;\n- secure data to prevent unauthorized access;\n\nThe core benefits of the above platform are:\n- patient data at your finger tips anytime, anywhere;\n- almost no change to your existing process;\n- holistic decision making to improve the overall patient care;\n- maintain eye contact for that long term patient-doctor relationship, critical for overall heathcare experience.\n\nFinally, no health data is stored on the OmRx app, thereby preventing unauthorized access or compromising patient privacy."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "e11e5ff9be3a7c70b91080b1e8774c2b",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "ON Organic & Natural",
+                "name": "ON Organic & Natural",
+                "description": "ON is a movement that endeavours to aspire people to become a part of it for better health, better lifestyle and overall wellness."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "7da1cf9550e104437efa65c93c16cddf",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "OneGen Healthcare",
+                "name": "OneGen Healthcare",
+                "description": "OneGen Healthcare - Quality and Affordable Healthcare to Everyone and Everywhere. At OneGen we believe Customers should have complete awareness and freedom to Choose what's good for them and their family.\nWe are aggregators, connects patients to Doctors and Local pharmacies. Creates one shop solution for complete treatment and well being at an affordable cost."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "34a644a41bb19b3b9468329940a40ddd",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Ornale.com",
+                "name": "Ornale.com",
+                "description": "Ornale is your trusted source for all things fitness. Ornale is a data-driven online Discovery platform for the fitness community in India. We aggregate about 4,000 fitness centers and more than 2000 fitness professionals from 10 cities across India."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "e65d7445175f73273dd8151951a5a127",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "OVO Health Pvt. Ltd.",
+                "name": "OVO Health Pvt. Ltd.",
+                "description": "OVO Health is the fastest growing healthcare facilitator dealing in multispeciality treatments like Cosmetic Surgeries, Cancer and Fertility. OVO Guarantees to get you the best treatment possible well within your budget and from the most experienced doctors in its network. OVO's mission is to help patients with unbiased transparent information across healthcare and assist with Trusted and Transparent information. OVO is known for its Independence, Authority and strong Patient Feedback. OVO Health is there with you through your entire journey making your Dream a Reality."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "88366f425b54f33171c2ebaf0cf51ce4",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "PlumHQ",
+                "name": "PlumHQ",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "0dd03aa2fe9a2ae5064e908430458f2b",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "ScienceHook",
+                "name": "ScienceHook",
+                "description": "ScienceHook is all about awesome science stuffs covering a vast majority of science fields - AI, Nanotechnology, Space, Environment, Medical, Mathematics, Engineering, Quantum World, Neuroscience and many more."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "00ff3f2f1f93cf544b477800caf613b6",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Senescent Care",
+                "name": "Senescent Care",
+                "description": "Senescent care is a continent and pocket friendly Home health care service providers available online. Either you are looking to book a nany for your new born baby or a nurse for your grandparents we are just a click away."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "84e023351e7e3506c20b130d95f58646",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Sumanchna Springedge Healthcare",
+                "name": "Sumanchna Springedge Healthcare",
+                "description": "A leading private sector healthcare provider in Asia. It has a robust presence across the healthcare ecosystem ..."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "817a9370383bb37b1e5c9127a1033599",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Swap",
+                "name": "Swap",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "34d294d8d2c0fc3caa9049976e58c6be",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "5th Vital",
+                "name": "5th Vital",
+                "description": "5th Vital\u2019s On-Door sample collection services provide you the flexibility of calling phlebotomists to your home, office or any other address at your preferred time. Their phlebotomists are equipped with the latest technology equipment and the samples are processed in their state-of-the-art technologically equipped laboratory. All their staff is highly experienced and trained to ensure the best quality services to our customers."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "ea52059f0b367d63b7776859783065ab",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Aadar",
+                "name": "Aadar",
+                "description": "Aadar is an Ayurveda Healthcare company building in-house natural and effective products. Ayurveda is a rich tradition that goes back to thousands of years. We all have witnessed the miracles of ayurveda in our juvenile age when our elders used various natural ingredients from their backyard to safeguard us from various lifestyle problems. The story of AADAR goes back to three decades when a grandmother (also a vaidya) devised few ayurveda formulations using all natural herbs to tackle issues such as indigestion, blood sugar etc. in the family."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "530d7d2f0f72868a3c2a5d547c8ee8d2",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "AB Hospitals",
+                "name": "AB Hospitals",
+                "description": "AB Lifecare is a Healthcare Technology company with an aim to make effective, efficient, equitable surgical care accessible to all. It develops, markets and operates surgical centres under Anand Bhaav Hospitals (ABH). Using its proprietary clinical workflow technology, it offers upto 60-70% operating cost savings on surgical treatments. Our focus area is elective surgeries like Gallbladder Removal, Hernia Repair, Haemorrhoidectomy, Piles, Uterus Removal, Hysterectomy, Fibroids and Biopsy."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5a11253df850f1190504423e52a53abf",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "ABC of Parenting",
+                "name": "ABC of Parenting",
+                "description": "ABC of Parenting - A leading content platform for the new age parents guiding them through all stage of your motherhood journey - getting pregnant, during pregnancy, post-pregnancy."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "3cecfe3139d12b9882049b3a7ac2d2f5",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "abhieo",
+                "name": "abhieo",
+                "description": "abhieo is a leading financial online matchmaking platform founded with a vision to fulfill every financial aspiration in the safe, simple and speediest way possible through a wide range of loan ,Investment & insurance products."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "b819e0f42933df15491882e1b4c3d046",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Acroalias",
+                "name": "Acroalias",
+                "description": "Acroalias Technologies is company moving towards future with the aim of fixing the social healthcare problems with algorithms using various technologies which could save and benifit lives with unique possiblities."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "cee71a1f74d47367a1a3ffff933197b3",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Adhbuth Ghrit",
+                "name": "Adhbuth Ghrit",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "7a29ca1d8ad5121b0c34c50a14797fd8",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "KiviHealth is a health-tech startup that aims to provide an affordable, patient-centric, digital health information management system."
+                    }
+                ],
+                "company_name": "HealthStart",
+                "name": "HealthStart",
+                "description": "HealthStart is India's first accelerator program dedicated to support start ups in healthcare industry through funding, mentorship and other requisite support. Healthstart has been founded by a team of highly successful group of global professionals comprising of entrepreneurs, business executives and investment professionals with the sole aim - to stimulate much needed healthcare entrepreneurship. HealthStart model of active mentorship through a dedicated curriculum, industry focus and active support from industry experts are key differentiators in the Indian venture capital ecosystem.\r\n\r\nHealthStart has 2 different funding programs, incubation program & angels investment."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "23022665df93d2f7c760a15adbbcbd43",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "Kensho combines natural language search, graphical user interfaces, and secure cloud computing to create a new class of analytics tools"
+                    },
+                    {
+                        "description": "RiskRecon is a leading third-party/vendor cyber risk solutions provider"
+                    },
+                    {
+                        "description": "Beam Therapeutics is pioneering the use of CRISPR base editing to develop precision genetic medicines that treat disease."
+                    },
+                    {
+                        "description": "Denali Therapeutics is a biotechnology company."
+                    },
+                    {
+                        "description": "Innovent Biologics is a biopharmaceutical company developing and manufacturing monoclonal antibodies."
+                    },
+                    {
+                        "description": "Orchard Therapeutics is a biotechnology company dedicated to transforming the lives of patients through innovative gene therapies."
+                    },
+                    {
+                        "description": "Precision BioSciences is a biotechnology company dedicated to improving life."
+                    },
+                    {
+                        "description": "Mersana Therapeutics develops a biodegradable polymer platform Fleximer\u00ae which creates new and better medicines."
+                    },
+                    {
+                        "description": "ViewRay develops advanced radiation therapy technology for the treatment of cancer."
+                    },
+                    {
+                        "description": "Apellis Pharmaceuticals focuses\u00a0on developing novel therapeutics and drug delivery technologies to address chronic inflammatory diseases."
+                    }
+                ],
+                "company_name": "F-Prime Capital",
+                "name": "F-Prime Capital",
+                "description": "F-Prime's roots are in one of America\u2019s great entrepreneurial success stories. Fidelity Investments was founded in 1946 and grew from a single mutual fund into one of the largest asset management firms in the world, with over $2 trillion in assets under management. For the last forty years, this venture capital group has had the privilege of backing other great entrepreneurs as they built ground-breaking companies in technology and life sciences, including Atari, MCI, ROLM Corp., Alibaba, Ironwood Pharmaceuticals, and Ultragenyx.\r\n\r\nToday, F-Prime's funds are larger and more global, but its teams are still small and local. F-Prime stays true to its entrepreneurial roots. In the US and Europe, F-Prime Capital Partners is investing in healthcare (formerly Fidelity Biosciences) and in technology (formerly part of Devonshire Investors). In other geographies, its sister fund is called Eight Roads (formerly Fidelity Growth Partners), with investment teams in London, Shanghai, Beijing, Hong Kong, Tokyo, and Mumbai. \r\n\r\nTogether F-Prime brings a world of insight, domain expertise and relationships to support entrepreneurs. Without the pressure of fundraising from outside investors, F-Prime Capital Partners focuses all of its time finding and helping great entrepreneurs build important companies."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "0cf433be6f91256d59d9bca79e49845b",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "OnlineTyari is India's leading online platform providing complete solution for online preparation for different competitive exams"
+                    }
+                ],
+                "company_name": "Rajasthan Patrika Pvt. Ltd.",
+                "name": "Rajasthan Patrika Pvt. Ltd.",
+                "description": "Rajasthan Patrika () is a leading Hindi Newspaper of India \u00e2\u20ac\u201c brings you the latest news online from india and around the world in hindi. It is published from 8 states of India include Rajasthan, Madhya Pradesh, Chhattisgarh, Karnataka, Gujrat, Tamilnadu, West Bengal and Delhi. It has total 35 editions published from Jaipur, Jodhpur, Udaipur, Kota and other cities of Rajasthan and from major Indian cities such as Bhopal, Indore, Ahmedabad, Gwalior, Kolkata , Jabalpur and Bangalore. Late Shri \"Karpoor Chandra Kulish founded Rajasthan Patrika on 7 March 1956.\r\n\r\nThe Rajasthan Patrika online website carries latest news, breaking news headlines, daily news, local news on bollywood, politics, education, sports, business, national, international, health, lifestyle, fashion, entertainment and more."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "1e0649e444fc07e88fc54078fb9717f9",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Brinc",
+                "name": "Brinc",
+                "description": "Brinc is a different breed of venture capital and accelerator firm. Core to our business is our belief that some of the world\u2019s biggest challenges can be solved by entrepreneurs, who we like to call GAME CHANGERS. More game changers will make a positive impact on the world if they are given the right backing. And that\u2019s what we\u2019re here for. To support and mentor founders and their teams from across the world and provide investment to help them grow. Today, we believe that technology focused startups, with the right backing and support can fundamentally change how we move, what we eat, how we feel and where we live for the better. Learn more: https://www.brinc.io/"
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "52feefa1ff546e2ee71f58beae7fb7aa",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "BlueJeans offers interactive, multi-directional video communication services through a cloud-based platform."
+                    },
+                    {
+                        "description": "Plaid provides companies the tools and access needed for the development of a digitally-enabled financial system."
+                    },
+                    {
+                        "description": "Motif allows individuals and investment advisors to invest in stock and bond portfolios built around everyday ideas and economic trends."
+                    },
+                    {
+                        "description": "Casper is a sleep startup that launches a comfortable mattress sold directly to consumers, eliminating commission \u00addriven, inflated prices."
+                    },
+                    {
+                        "description": "CyberX is the most robust cybersecurity platform for continuously reducing IoT/OT risks."
+                    },
+                    {
+                        "description": "Jet operates an e-commerce platform that allows its member to shop online from various retailers."
+                    },
+                    {
+                        "description": "FireEye is an intelligence-led security company that protects customers with innovative technology and expertise from the front lines."
+                    },
+                    {
+                        "description": "Lending Club is an online financial community that brings together creditworthy borrowers and savvy investors."
+                    },
+                    {
+                        "description": "MobileIron manufactures Mobile Device Management solutions (MDM)\u00a0and Enterprise Mobility Management (EMM) for mobile devices."
+                    },
+                    {
+                        "description": "Shape provides defense against malicious automated cyber-attacks on web and mobile applications."
+                    }
+                ],
+                "company_name": "Norwest Venture Partners",
+                "name": "Norwest Venture Partners",
+                "description": "Norwest is a premier multi-stage investment firm managing more than $7.5 billion in capital. Since our inception, we have invested in more than 600 companies and partner with over 140 active companies across our venture and growth equity portfolio. The firm invests in early to late stage companies across a wide range of sectors with a focus on consumer, enterprise, and healthcare. We offer a deep network of connections, operating experience, and a wide range of impactful services to help CEOs and founders scale their businesses. Norwest has offices in Palo Alto and San Francisco, with subsidiaries in India and Israel."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "73cabe9c1dc8197bb198a80ab75a72a0",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Apollo Hospitals Enterprise",
+                "name": "Apollo Hospitals Enterprise",
+                "description": "Apollo Hospitals is widely recognized as the pioneer of private healthcare in India, and was the country\u00e2\u20ac\u2122s first corporate hospital. The Apollo Hospitals Group, which started as a 150-bed hospital and today, operates 9200 beds across 64 hospitals. A forerunner in integrated healthcare, Apollo has a robust presence across the healthcare spectrum. The Group has emerged as the foremost integrated healthcare provider in Asia, with mature group companies that specialize in insurance, pharmacy, consultancy, clinics and many such key touch points of the ecosystem. The Apollo Group has touched the lives of over 45 million patients, from 121 countries."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "f8a7a52732d4ecbfe54e18bc2b71eb97",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "The Learning Corp is a next-gen digital therapeutics company and maker of mobile cognitive therapy platform Constant Therapy"
+                    },
+                    {
+                        "description": "WiseBanyan is the next generation financial services firm, helping people save & invest for goals, starting with their first $1 -- for free."
+                    },
+                    {
+                        "description": "Spensa offers painless, cost-effective precision pest management tools for modern agriculture."
+                    },
+                    {
+                        "description": "1DocWay is an online platform enabling patients to schedule appointments and see their doctors through video chat."
+                    },
+                    {
+                        "description": "TruClinic is a modular cloud-based  telemedicine platform."
+                    }
+                ],
+                "company_name": "VilCap Investments",
+                "name": "VilCap Investments",
+                "description": "VilCap Investments leverages the experience of the Village Capital accelerator programs to find, train, and fund entrepreneurs. They make seed and follow-on investments in peer-selected companies in agriculture, education, energy, financial services, and health around the globe."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5d9da610b6b42c31d8c94932aa4170cd",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "CrowdSpark is an all-in-one solution for brands and media companies to gather, curate, publish and analyze user-generated content."
+                    },
+                    {
+                        "description": "Ticket exchange company with flexible name-your-price buying and risk-free selling. No wasted time, no wasted tickets."
+                    },
+                    {
+                        "description": "Travel Notes helps financial institutions improve their cardholders\u2019 experience when they are traveling."
+                    }
+                ],
+                "company_name": "UpTech Accelerator",
+                "name": "UpTech Accelerator",
+                "description": "UpTech is a nationally ranked tech accelerator program for data-driven startups that are developing tech-enabled solutions and seeking equity funding. UpTech selects up to 10 startups annually to go through the 6-month accelerator program driven by intensive entrepreneurship education, one-on-one mentoring, and extensive community involvement."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "f0ef5feff05047da86247634ee7f6bb3",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "Flyrobe is an on-demand apparel rental platform that provides premium designer wear."
+                    },
+                    {
+                        "description": "Raksul is a B2B platform builder with a vision of \"better systems, better world\". It has platforms in printing, logistics and advertising."
+                    },
+                    {
+                        "description": "Luxola is an online destination offering skincare and cosmetic products for consumers in South Asia."
+                    },
+                    {
+                        "description": "GENIEE (TYO6562, A Member of SoftBank Group) is APAC Digital Marketing Technology and Advertising Technology Company."
+                    },
+                    {
+                        "description": "Smart camp is a company that provides Internet services for B2B marketing."
+                    },
+                    {
+                        "description": "Pie offers a web-based application that enables individuals and teams to message at their workplaces."
+                    },
+                    {
+                        "description": "UrbanIndo is an Indonesian property portal connecting property agents and sellers with buyers."
+                    },
+                    {
+                        "description": "aucfan is a Japanese online platform that provides e-commerce price data across American, Chinese, and Japanese markets."
+                    },
+                    {
+                        "description": "Somewrite aims to transform advertising into valuable information for the end consumer."
+                    },
+                    {
+                        "description": "PriceArea is a price and product search engine connecting shoppers with local and retail stores, and other online marketplaces."
+                    }
+                ],
+                "company_name": "STRIVE",
+                "name": "STRIVE",
+                "description": "STRIVE focuses on investing in early stage (seed to Series A) internet and mobile companies. It seeks out companies in Japan, Southeast Asia, and India with top notch management teams and strong market potential. It is not tied to strategic investments for GREE Inc. and leverages its pan-Asia expertise for guiding its portfolio in an engaged, hands-on role."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "3a53230970ccc129b2f70700408f0921",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "Kakao is a mobile lifestyle platform offering services ranging from messaging, news, advertising, gaming, e-commerce, and music."
+                    },
+                    {
+                        "description": "One Medical is a members-only technology platform offering an array of concierge medical services."
+                    },
+                    {
+                        "description": "1mg is an online pharmacy network platform and generic medicine engine."
+                    },
+                    {
+                        "description": "Castlight Health navigation platform makes it as easy as humanly possible to navigate healthcare & live happier more productive lives."
+                    },
+                    {
+                        "description": "Youku is a video-sharing website that enables users to search, view, and share high-quality video content across multiple devices."
+                    },
+                    {
+                        "description": "Groupon is a deal-of-the-day website that offers discounted gift certificates usable at local or national companies."
+                    },
+                    {
+                        "description": "Apptimize lets mobile teams increase revenue and engagement by iterating faster and smarter."
+                    },
+                    {
+                        "description": "Homology Medicines is a genetic medicines company dedicated to transforming the lives of patients suffering from rare genetic diseases."
+                    },
+                    {
+                        "description": "Pacific Biosciences designs, develops, and manufactures sequencing systems to resolve genetically complex problems."
+                    },
+                    {
+                        "description": "BlueTalon provides leading data-centric security along with visibility and control at the data layer across Hadoop, Spark, SQL and Big Data"
+                    }
+                ],
+                "company_name": "Maverick Ventures",
+                "name": "Maverick Ventures",
+                "description": "Maverick Ventures is a registered investment advisor managing private investment funds for qualified investors. The company focused on an agile team of venture partners and the resources, reputation, and relationships of a multi-billion dollar fund. It also invests through an evergreen structure that allows us to support entrepreneurs for an indefinite time horizon.\n\nMaverick Ventures also invests in early-stage companies such as software development, medical devices, biotech, pharmaceutical, technology, and digital marketing sectors.  The company was founded in 2015 and is headquartered in San Francisco, CA, USA."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "90c1fabc1cf6523f9c5cd1a263e73c05",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Talwalkars",
+                "name": "Talwalkars",
+                "description": "Talwalkars Better Value Fitness Limited., more popularly known as Talwalkars, is India's largest chain of gyms, healthclubs & spas. It has more than 150 ultra modern branches across 80 cities of India with over 1,50,000 members. A healthy body is the perfect compliment to a brilliant mind. Building a strong masculine physique or a graceful feminine figure, Talwalkars has been spreading fitness since 1932 across India. A team of qualified fitness instructors, medical specialists, and the latest international equipment synergise to give you the best fitness experience in the country."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "02131da122c2e24810d2d36f93aecee2",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Manipal Group",
+                "name": "Manipal Group",
+                "description": "Manipal Education and Medical Group (MEMG) are one of India\u00e2\u20ac\u2122s medical research, education, and healthcare service providers. It manages hospitals, education institutions, and medical research facilities."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "ae8eba639fdd052d07df104ed4d0d40d",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "LGT Lightstone",
+                "name": "LGT Lightstone",
+                "description": "LGT Lightstone is a global direct private equity platform focused on impact investing in scalable businesses that achieve positive societal outcomes by harnessing breakthrough developments in technology. LGT Lightstone invests in companies in Europe, Asia, Latin America and Africa that empower consumers, increase business productivity, and promote sustainable resource utilization. LGT Lightstone is part of LGT Group, a leading international private banking and asset management group that has been fully controlled by the Liechtenstein Princely Family for over 80 years."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "4bb00e571acfe6e55d15c03a1c2cfc5d",
+            "_score": 1.0,
+            "_source": {
+                "exits": [
+                    {
+                        "description": "Square is a merchant services aggregator and mobile payment company that aims to simplify commerce through technology."
+                    },
+                    {
+                        "description": "Nutanix is a\u00c2\u00a0virtualized datacenter platform that provides disruptive datacenter infrastructure solutions for implementing enterprise-class."
+                    },
+                    {
+                        "description": "Okta is a management platform that secures critical resources from cloud to ground for workforce and customers."
+                    },
+                    {
+                        "description": "RingCentral, a global distributor of cloud-unified communications and collaboration solutions, offers its users with technology services."
+                    },
+                    {
+                        "description": "The leader in unstructured data management in the cloud."
+                    },
+                    {
+                        "description": "Ondeck is a technology-enabled financial platform that provides loan financing to small- and medium-sized businesses."
+                    },
+                    {
+                        "description": "Cylance is a global provider of cybersecurity products and services using A.I. and machine learning to solve security problems."
+                    },
+                    {
+                        "description": "Granular is a software and analytics platform that helps farmers operate more efficiently and make better business decisions."
+                    },
+                    {
+                        "description": "Yammer is an enterprise social network that enables employees to collaborate across departments, geographies and business applications."
+                    },
+                    {
+                        "description": "Guardant Health is committed to positively and significantly impacting patient health through technology breakthroughs in oncology."
+                    }
+                ],
+                "company_name": "Khosla Ventures",
+                "name": "Khosla Ventures",
+                "description": "Khosla Ventures is a venture capital firm started in 2004 by Vinod Khosla, Co-Founder of Sun Microsystems. The firm provides venture assistance and strategic advice to entrepreneurs working on breakthrough technologies.\n\nWith over $5 Billion under management, the firm focuses on a range of areas including consumer, enterprise, education, advertising, financial services, semiconductors, health, big data, agriculture, food, sustainable energy, and robotics. Khosla Ventures is headquartered in Menlo Park, California."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "a719af777f983eb7e4c6c7c0501fb8d8",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Dabur India",
+                "name": "Dabur India",
+                "description": "Dabur India Ltd is one of India\u2019s leading FMCG Companies with Revenues of over Rs 7,806.4 Crore & Market Capitalisation of US $5 Billion. Building on a legacy of quality and experience of over 131 years, Dabur is today India\u2019s most trusted name and the world\u2019s largest Ayurvedic and Natural Health Care Company. \r\n\r\nDabur India is also a world leader in Ayurveda with a portfolio of over 250 Herbal/Ayurvedic products. Dabur's FMCG portfolio today includes five flagship brands with distinct brand identities -- Dabur as the master brand for natural healthcare products, Vatika for premium personal care, Hajmola for digestives, R\u00e9al for fruit juices and beverages and Fem for fairness bleaches and skin care products.\r\n\r\nDabur today operates in key consumer products categories like Hair Care, Oral Care, Health Care, Skin Care, Home Care and Foods. The company has a wide distribution network, covering over 5.8 million retail outlets with a high penetration in both urban and rural markets.\r\n\r\nDabur's products also have a huge presence in the overseas markets and are today available in over 60 countries across the globe. Its brands are highly popular in the Middle East, SAARC countries, Africa, US, Europe and Russia. Dabur's overseas revenue today accounts for over 30% of the total turnover..\r\n\r\nThe 130-year-old company, promoted by the Burman family, had started operations in 1884 as an Ayurvedic medicines company. From its humble beginnings in the bylanes of Calcutta, Dabur India Ltd has come a long way today to become one of the biggest Indian-owned consumer goods companies with the largest herbal and natural product portfolio in the world. Overall, Dabur has successfully transformed itself from being a family-run business to become a professionally managed enterprise. What sets Dabur apart from the crowd is its ability to change ahead of others and to always set new standards in corporate governance & innovation."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "46a661a0a12c65c16da5a4f501bde307",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "WooBloo",
+                "name": "WooBloo",
+                "description": "WooBloo is a team of technology avengers with a critical eye for customer centricity who have joined forces to take on the challenge of bringing together multiple applications at the tip of your finger, while continuing to retain the emotional element which is really what differentiates us from machines."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "a25294501c5ba4b4a01238471a281c0d",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Yoactiv",
+                "name": "Yoactiv",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "4df11bf1041929a8b0af1c24478ff39c",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Yog Nirog",
+                "name": "Yog Nirog",
+                "description": "Yog Nirog is helping number of people to stay away from diseases. This Yoga app is beneficial for getting sound mind and body and that's why it can enable you to live a happy and contented life."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "d531359264ec2b280eb472100c9a26da",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "YouCare",
+                "name": "YouCare",
+                "description": "YouCare is a Chandigarh based healthcare startup connecting families to awesome caregivers. \r\n\r\nWith over 200 nurses, medical attendants, nannies and babysitters registered, we assist families to search for babysitting, nanny and elderly care services in Chandigarh.\r\n\r\nWith YouCare, families can now shortlist caregivers on the basis of location, requirement and budget. They can book online to schedule direct interviews with the caregivers and hire them in an instant.\r\n\r\nBy letting caregivers determine their requirement and wages, YouCare lets caregivers work for as many hours as they want, negotiate their own charges and fix their own timings. YouCare.in also offers to train caregivers to help them climb up the social ladder and gain better dignity for their work.\r\n\r\nYou can visit us at: https://youcare.in to know more."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "7bb899db7864e01dccb9eedbb2df7d25",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Zee Ayurveda",
+                "name": "Zee Ayurveda",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "0667d141d104ccb286a8454074427550",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "ZingUpLife",
+                "name": "ZingUpLife",
+                "description": "ZingUpLife is India's first curated wellness engagement and advisory platform, and the World's first ISO 26000 verified health & wellness company. We\u2019re on a mission to provide easy and effectual access to better personal wellbeing across multiple dimensions. \n\nOur core team is an eclectic group with proven track records, and a comprehensive understanding of the highly nuanced integrated wellness segment. The team has been associated with large global organizations as well as high-growth start-ups such as SAP, eBay, Gild, IBM, eLitmus, Flipkart, and Hyatt Hotels."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "56b95649f42d7f23eddd2821753557f1",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Zyla Health",
+                "name": "Zyla Health",
+                "description": "Zyla's premium panel of doctors delivers structured programs to correct your Heart Disease and Diabetes. Zyla's health programs are personalized based on your complete health history/ genetic history and delivered via the phone right where you are."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "82a2d4fdb6547db06fe929a13697fdbe",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Abcart",
+                "name": "Abcart",
+                "description": "Abcart.in is a best online beauty and health & personal care products. It offers beauty and health & personal care products for men and women at Lowest prices. The products are 100% genuine and authentic, sourced directly from the brands. Visit Abcart.in"
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5aedd230255d4289144c99a4923ab387",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Advisor Healthcare Private Limited",
+                "name": "Advisor Healthcare Private Limited",
+                "description": "Advisor Healthcare is Virtual Hospital platform based on marketplace approach. Advisor Healthcare focuses on mHealth solution to enable digital interactions between patients and healthcare providers using closely integrated digital communication system, personal health records (PHR) and big data analytics. Advisor Healthcare aims to simplify remote consultation, follow-up and medical second opinion.\r\n\r\nAdvisor Healthcare is a personal smart Health Assistant, which helps patients to take informed decision using the data sciences and keep them connected with the physicians and healthcare providers. It also help them to track and analyse personal health data.\r\n\r\nAdvisor Healthcare is Health 2.0 solution, which is Continuous, Data Driven and Intelligent."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "f2c4e7c6cfe9dc35d53c5c77f591f813",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Aermed",
+                "name": "Aermed",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "a7f1f09cf9cfdf4edaae2b51a350accf",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Just Relief Wellness Pvt Ltd",
+                "name": "Just Relief Wellness Pvt Ltd",
+                "description": "Just Relief is one stop online destination catering to mass community with complete range of Pharma and healthcare products and services \r\n\r\nProvide a bridge between consumers and service providers at the best possible price. \r\n\r\nLeverage internet technology to provide healthcare awareness in the society with latest news and updates."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "a6425a03b760a51f1fd73ab99ccd3d73",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Arogyastu",
+                "name": "Arogyastu",
+                "description": "Hi there, I am Arogyastu! I was born out of a need to simplify Healthcare, a need so strong yet largely unaddressed. My founding team, Vinod Kumar Reddy strongly believe that business and social cause need to be mutually inclusive and are extremely passionate about what they do.\r\n\r\nBeen brought up in this environment, my service empowers people to explore and find the best suited healthcare facilities, make informed decisions and take care of their health in the most comfortable manner. I must tell you that I am just a couple of days old, but my creators have big plans for my future. I am growing fast and will be accessible to anyone anywhere within the next two years.\r\n- See more at: http://www.arogyastu.com/"
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "770d7fb28df849a09738389848aed482",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Arunchandra",
+                "name": "Arunchandra",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "4dcda12ba3aa392e6b91b1d24cc2886d",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "AskMyHealth",
+                "name": "AskMyHealth",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "1cb30df45dd918e65976c0bfcc9738f8",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "b2c digital pvt ltd",
+                "name": "b2c digital pvt ltd",
+                "description": "b2c digital provides healthcare and education solutions to its clients.\n\nThe company develops MedBox, a medical platform that features search, appointment booking, order lab test, order pharmacy, reminders, and emergency contacts. It enables healthcare institutions to manage and organize their healthcare information during and after their treatments.\n\nb2c digital was founded in 2015 by Suyash and Sohaon K and is based in Gujarat."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "99101f248dae756aefdeca30c10baa38",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "BeautyEpic",
+                "name": "BeautyEpic",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "e2ab92d7314b2cc7c7e2c92817d242bc",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Bellissa Feminine Online Amenities Pvt Ltd",
+                "name": "Bellissa Feminine Online Amenities Pvt Ltd",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "244ad0028fceca97019661533736d684",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Best of the Bump",
+                "name": "Best of the Bump",
+                "description": "Best of the Bump is an online retailer that distributes maternity products to its clients.\n\nBest of the Bump's product portfolio consists of maternity wear, journals, and services. Maternity wear consists of dresses and workwear. Journals consist of pregnancy and baby journals. Services consist of babymoon vacations.\n\nBest of the Bump was launched in 2015 by Pankaj Joshi, Pankhuri Joshi, Sumit Kumar, and Shubham Srivastava."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "6d58022a651fcb8836d942f3d3cadbcb",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Bigfix Gadget Care",
+                "name": "Bigfix Gadget Care",
+                "description": "Bigfix Gadget Care Llp is growing a network of professional gadget care centers through strong web/ mobile presence and franchise partnerships."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "afdcf58a4c7af5f8a89f22bd3a598604",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Biological Research Innovation Centre and Solutions",
+                "name": "Biological Research Innovation Centre and Solutions",
+                "description": "The mission is to promote functional and safe food production through solid principles of natural farming like organic/biological farming, community farming, urban farming, etc. The focus is on R&D with multifaceted approach to generate the IPRs, to design and develop safer innovative products for use in organic crop production, for better human health and society\u2019s well being.\n\nProduct Ranges\n\nEco-friendly Agriculture Products\nNatural Cleaners made of Soapnut and Shikakai\nEcoSwachh3R Natural Home Care Products\nEcoSattva3R Natural Personal Care Products\n\nCo-Founders\n\n1. Rajendra Hegde, Ph,D (Agricultural Entamology)\n2. Ravish Bhat, M.Sc (Organic Chemistry)\n3. Ravishankar Bhat, PhD (Materials Science)"
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "7b5fa980b68db8ffcd9baaa69d77484d",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Bitmantis Innovations",
+                "name": "Bitmantis Innovations",
+                "description": "At Bitmantis we harness connected technologies, Analytics, Information Security and other domain specific technologies to build solutions for a cleaner, greener and smarter world. Our mission is to Innovate Smart Solutions for Urban - Health, Safety and Convenience.\r\n\r\nTeam:\r\nThe founding team at Bitmantis has 50+ years of  collective technology experience with a passion for applying technology to solve real world problems.  Having experienced the challenges of Urban living the team is on a mission to create solutions that address challenges in the  Urban health, safety and convenience domains.\r\n\r\nThe leadership team also draws on the support and thought leadership of independent Advisors and mentors and experts in the Information Technology, Business and Smart farming/ Agriculture sectors."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "00705b398f5679b716b0e6fe128479b5",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Brainpan Innovations",
+                "name": "Brainpan Innovations",
+                "description": "1. Doctor\u2019s Diary: Doctor's Diary is a Data Driven Preventive Electronic Health Record (EHR) application that promises \u2018one patient, one record\u2019 for 1.31+ billion Indian population. Doctor\u2019s Diary facilitates a holistic understanding of each patient\u2019s health, minimizes human errors, prevents wrong diagnosis and helps the doctor make a more informed decisio. BIPL has also developed Disease Atlas which is an early warning system for epidemics and pandemics. It predicts and monitors the future wave of contagious outbreaks. It has the potential to save millions of lives from diseases like dengue, malaria, cholera, typhoid, and influenza."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "d35ce36895e404281bf4140b40aaa2f4",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "BreadnPulp",
+                "name": "BreadnPulp",
+                "description": null
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "b3f3aed9d57275c97f105aa5bcdc3772",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Brightsandz Technologies LLP",
+                "name": "Brightsandz Technologies LLP",
+                "description": "Electromagnetic pollution is the most significant form of pollution generated by human activity in this century - all the more dangerous because it is invisible and insensible. In June 2011, the World Health Organization deemed Radio frequency radiation as a \"possible Carcinogen\" in the same league as Lead, Vehicle fumes, Chloroform etc.\r\nBrightsandz is a radiation consultancy that acknowledges the risks of EMF and EMF radiation pollution - at home, schools, outdoors and at work place. We carry out radiation audits of premises and provide solutions to reduce EMF and EMF radiation for a a healthy and safe living. Even while the scientific community is split on the adverse effects and the no effects of ElectroMagnetic radiation, we believe that it is safe than to be sorry."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "a7ca1bd51b12a3387cc31719ec5e10c0",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "CaringElders Technology",
+                "name": "CaringElders Technology",
+                "description": "Caring Elders Technology Private Ltd (CET) is a Health Care IT Solutions company focused on offering a cloud based system for Home Health Agencies, Outpatient Clinics, Nursing Homes, Labs and Hospitals. CET has a subscription based SaaS system that specifically targets evolving Home Care Agencies and other Health Care providers in India at affordable prices. The System is designed using seasoned U.S. Health IT professionals with local market contexts in mind.\r\n\r\n     Doctors, Nurses, Therapists and associated office staff can use our solutions to meet their respective workflow needs like Patient registration, Scheduling and Clinical Documentation. Our Solution works on multiple devices like PCs, Laptops and Tablets. Patient portal and Mobile apps are coming soon. Thus, we eliminate the need for huge upfront system costs since our licensing is based on monthly subscription. Customers can start with few users and scale up based on their needs.\r\n\r\n     Our goal is to help health care providers deliver effective care by managing their system needs. Our solutions will continue to evolve based on the needs of the health care industry in India. You can contact us at sales@caringlelders.com for a Demo or a free trial. Also, you can visit us at www.CaringElders.com for additional information."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "27adba294d0088d843cf482b0ee7332e",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Celes Care",
+                "name": "Celes Care",
+                "description": "Celes Care is India\u2019s first Online Health Clinic for Women. We offer doctor consultation services on Pregnancy Care, Nutrition, Wellness & General Health. Our online consultation service is highly affordable and delivered by our expert women doctors who are compassionate and care for your health. We connect you with our doctors within a minute."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "26ae79174b4300ad4429aa4366dcccbc",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Clinicia",
+                "name": "Clinicia",
+                "description": "Clinicia is Practice Management Solutions for Specialist Doctors. It helps Doctors manage their Patients & Clinic in more efficient manner. Its mobile App & Desktop based software solution. Clinicia aims to convert Clinics to paperless with Online Records management. It also helps improve the engagement between Patients & Doctors. "
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "5717aa75521c8fc24c78982ccae35bb8",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Cooey Technologies",
+                "name": "Cooey Technologies",
+                "description": "Cooey Technologies provides smart & leverage the power of technology to power transformation in healthcare.\n\nCooey was founded in April 2015 by Manu Madhusudanan and Prabhakaran T.P. , after they had first-hand experience of what many chronic patients go through in India. Cooey aims to be known the \u201cWhatsApp\u201d of healthcare or digital real estate where everyone is hooked in and get effective answers in the simplest form possible.\n\nAn overwhelming percentage of chronically ill, elderly patients go through the painful process of logging their homecare medical data & availing recurring services. Further, there is lack of mechanism to capture comprehensive medical history or service targeting for hospital. And you need solutions that are dynamic, holistic, personalized, and more importantly easily understandable.\n\nWith Cooey\u2019s solution, patients can minimize their visits to hospitals or labs and get personalized insights on their medical condition while staying connected with their doctors. Thus, empowering them to make informed decisions on their medical condition.\n\nSo far, the Health IT includes Hospital Information System (HIS) and other products/apps, but still there is a missing last mile link, engagement with patient. Cooey is that missing shoe in this entire process. It\u2019s the 3rd platform for chronic patient health management. 3rd Platform is about engaging patients to health management system and providing targeted services to them.\n\nTo maximize the opportunities further in elderly care & remote monitoring, in December 2016, Cooey launched its next product, MyCooey, a comprehensive platform exclusively for elderly care management and remote care coordination. It connects patients, caregivers, and family members irrespective of the location they are in. It\u2019s a combination of smart devices, mobile apps and a web portal. MyCooey has now close to 40,000 patients and caregivers as users across the globe, and demonstrated how one can leverage best practices and enable better patient engagement, more effective communication and care coordination among the patient community and caregivers."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "32d846676250538a5eda715dddf990cf",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "CrazyMunch",
+                "name": "CrazyMunch",
+                "description": "CrazyMunch offers a subscription service that sends individuals a box of assorted healthy snacks each month.\n\nCrazyMunch was launched by Ashish Payasi, Narendra Kumar, and Bittu Kumar in April 2016 and is based in Noida, Uttar Pradesh."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "84369b22813b6396c62a043b08ce9590",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Crimson Healthcare",
+                "name": "Crimson Healthcare",
+                "description": "Crimson is a medical device innovation company developing products for the global markets with a focus on Ostomy Care products."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "029984b2f216b74943b573687bf965dc",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Cureinstant",
+                "name": "Cureinstant",
+                "description": "It is a social health networking site.Where people can follow Doctors, Hospitals,\r\nPharmacy shop and company, Fitness center, Yoga instructor, Health Magazine and many more\r\nwhich are related to health services.People can ask their problem to the Doctor\r\nthrough live chat."
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "400f062fda9aca5b8376c6285fd4ae09",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "Dadu Dayal Infotech Pvt Ltd",
+                "name": "Dadu Dayal Infotech Pvt Ltd",
+                "description": "The customer is a person with an idea. We take care of the rest (only if you want us to)"
+            }
+        },
+        {
+            "_index": "crunchbase_companies",
+            "_type": "_doc",
+            "_id": "1f82cd60ff10a919a5c6efe8bb0beb0e",
+            "_score": 1.0,
+            "_source": {
+                "company_name": "DevForce Soft Labs Private Limited",
+                "name": "DevForce Soft Labs Private Limited",
+                "description": null
+            }
+        }
+    ]
+}
